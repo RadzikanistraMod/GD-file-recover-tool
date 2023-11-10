@@ -26,4 +26,4 @@ except Exception as e:
     print("An error occurred:", e)
 
 # Add a delay before exiting
-time.sleep(5)  # Wait for 5 seconds before exiting
+time.sleep(3)  # Wait for 3 seconds before exiting
